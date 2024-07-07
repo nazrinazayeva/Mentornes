@@ -1,2 +1,2 @@
 # Mentornes
-First project on github
+Mentorness Machine Learning internship tasks
